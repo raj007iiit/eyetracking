@@ -1,0 +1,9 @@
+streamlit>=1.25.0
+opencv-python
+mediapipe
+pandas
+numpy
+seaborn
+matplotlib
+fpdf
+scikit-learn
