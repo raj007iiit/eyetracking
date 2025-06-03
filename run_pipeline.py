@@ -17,8 +17,7 @@ print("\n🎞️ Step 4: Exporting gaze trail video...")
 subprocess.run(["python", "gaze_replay_video.py"])
 
 # Step 5: Generate PDF report
-print("📝 Step 5: Generating PDF report...")
-
+print("\n📝 Step 5: Generating PDF report...")
 
 # AOI Timeline Plot
 plt.figure(figsize=(12, 2))
